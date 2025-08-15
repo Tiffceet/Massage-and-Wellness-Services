@@ -9,6 +9,7 @@ using namespace std;
 
 int main() {
     organizationLogoScreen();
+    modeSelectScreen();
     return 0;
 }
 

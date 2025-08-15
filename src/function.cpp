@@ -6,7 +6,7 @@
 #include <cstring>
 #include "function.hpp"
 #include "struct.hpp"
-#include "menu.hpp"
+#include "ui/menu.hpp"
 using namespace std;
 
 

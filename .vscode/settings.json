@@ -1,7 +1,8 @@
 {
   "[cpp]": {
     "editor.tabSize": 4,
-    "editor.detectIndentation": false
+    "editor.detectIndentation": false,
+    "editor.indentSize": "tabSize"
   },
   "files.associations": {
     "iosfwd": "cpp",
